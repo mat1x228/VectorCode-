@@ -1,0 +1,7 @@
+C:\Users\Алина\source\repos\VectorCode\VectorCode\bin\Debug\VectorCode.exe.config
+C:\Users\Алина\source\repos\VectorCode\VectorCode\bin\Debug\VectorCode.exe
+C:\Users\Алина\source\repos\VectorCode\VectorCode\bin\Debug\VectorCode.pdb
+C:\Users\Алина\source\repos\VectorCode\VectorCode\obj\Debug\VectorCode.csprojAssemblyReference.cache
+C:\Users\Алина\source\repos\VectorCode\VectorCode\obj\Debug\VectorCode.csproj.CoreCompileInputs.cache
+C:\Users\Алина\source\repos\VectorCode\VectorCode\obj\Debug\VectorCode.exe
+C:\Users\Алина\source\repos\VectorCode\VectorCode\obj\Debug\VectorCode.pdb
